@@ -1,16 +1,29 @@
-## Hi there 👋
+![Jean Pierre Escudero Rodas](https://github.com/user-attachments/assets/e2531e18-c096-41a6-9790-5f4f656c1334)
 
-<!--
-**EscuderoRodasJean/EscuderoRodasJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hola, soy Jean Pierre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Developer · Lima, Perú
+
+Desarrollo soluciones de software eficientes y escalables.
+
+ [LinkedIn](www.linkedin.com/in/jeanescudero) · [Email](mailto:jean.escudero31@gmail.com) · [GitHub](https://github.com/EscuderoRodasJean)
+
+---
+
+### Stack
+
+![Stack](https://skillicons.dev/icons?i=spring,react,angular,mysql,linux,docker,java&theme=dark)
+
+También: JavaScript · TypeScript · Git · Supabase
+
+---
+
+### Projects
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| **[Final_JS_MesaAyuda](https://github.com/EscuderoRodasJean/FInal_JS_MesaAyuda)** | Aplicación web para registrar, consultar y gestionar las incidencias técnicas. | JavaScript · Web |
+| **[SmartStock360](https://github.com/EscuderoRodasJean/SmartStock360-Prediccion-Demanda)** | Sistema inteligente de predicción de demanda para gestión de inventario. | React · Spring Boot · Python FastAPI · Random Forest |
+| **[ProyectoPatrones](https://github.com/EscuderoRodasJean/ProyectoPatrones)** | Sistema integrado de gestión universitaria. | Java · Patrones de Diseño |
+
