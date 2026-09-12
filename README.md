@@ -3,9 +3,9 @@
 
 ## Hola, soy Jean Pierre
 
-### Software Developer · Lima, Perú
+### Jr Software Developer · Lima, Perú
 
-Desarrollo soluciones de software eficientes y escalables.
+Dando mis primeros pasos en el mundo del Desarrollo Web :3
 
  [LinkedIn](www.linkedin.com/in/jeanescudero) · [Email](mailto:jean.escudero31@gmail.com) · [GitHub](https://github.com/EscuderoRodasJean)
 
