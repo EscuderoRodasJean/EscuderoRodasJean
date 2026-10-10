@@ -13,7 +13,7 @@ Dando mis primeros pasos en el mundo del Desarrollo Web :3
 
 ![Stack](https://skillicons.dev/icons?i=spring,react,angular,mysql,linux,docker,java&theme=dark)
 
-También: JavaScript · TypeScript · Git · Supabase
+También: JavaScript · TypeScript · Git · Supabase . Insforge
 
 ---
 
