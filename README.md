@@ -1,5 +1,3 @@
-![Jean Pierre Escudero Rodas](https://github.com/user-attachments/assets/e2531e18-c096-41a6-9790-5f4f656c1334)
-
 
 ## Hola, soy Jean Pierre
 
